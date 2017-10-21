@@ -3,6 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import logo from '../img/logo.gif';
 import '../App.css';
 import Home from './Home';
+import History from './History';
 import Roster from './Roster';
 import { Tabs, Tab, Button } from 'react-bootstrap';
 

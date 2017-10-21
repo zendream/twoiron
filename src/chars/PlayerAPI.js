@@ -9,12 +9,10 @@ const PlayerAPI = {
       mainPicFilename: 'jarkametelka.png',
       guildTitle: 'Rakvič',
       moreText: 'Sedlák totál',
-      contact: [
-        {
-          type: 'ICQ',
-          value: '123456789'
-        }
-      ]
+      contact: {
+        type: 'ICQ',
+        value: '123456789'
+      }
     },
     {
       number: 2,
@@ -24,12 +22,7 @@ const PlayerAPI = {
       mainPicFilename: 'darkametelka.png',
       guildTitle: 'Rakvič',
       moreText: 'Sedlák mentál',
-      contact: [
-        {
-          type: 'email',
-          value: 'vololo@lolo.lol'
-        }
-      ]
+      contact: null
     }
   ],
   all: function() {

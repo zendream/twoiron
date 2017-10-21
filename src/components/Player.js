@@ -17,15 +17,17 @@ class Player extends Component {
         </h1>
         <h2>Titul: {player.guildTitle}</h2>
         <h3>Titul: {player.moreText}</h3>
-        <div>
-          {' '}
-          Kontakt:
-          {player.contact && (
+
+        {player.contact && (
+          <div>
+            {' '}
+            Kontakt:
             <p>
               {player.contact.type} : {player.contact.value}
             </p>
-          )}
-        </div>
+          </div>
+        )}
+
         <Link to="/roster">Back</Link>
       </div>
     );
