@@ -2,11 +2,10 @@
 const EventAPI = {
   eventItems: [
     {
-      number: 1,
-      date: '2012-04-23T18:25:43.511Z',
-      picPath: '',
+      number: 3,
+      date: '2014-04-23T18:25:43.511Z',
       shortText: 'Qwer umřel!',
-      longText: 'Normálně zakopnul, nechápu'
+      longText: 'Autoeroticka asfyxiace'
     },
     {
       number: 2,
@@ -15,14 +14,15 @@ const EventAPI = {
       longText: 'Spadnul z lamy a zlomil si vaz'
     },
     {
-      number: 3,
-      date: '2014-04-23T18:25:43.511Z',
+      number: 1,
+      date: '2012-04-23T18:25:43.511Z',
+      picPath: '',
       shortText: 'Qwer umřel!',
-      longText: 'Autoeroticka asfyxiace'
+      longText: 'Normálně zakopnul, nechápu'
     }
   ],
   all: function() {
-    return this.eventItems.reverse();
+    return this.eventItems;
   },
   get: function(id) {
     const isItem = p => p.number === id;

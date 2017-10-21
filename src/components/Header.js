@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import logo from '../img/logo.gif';
 import '../App.css';
 
@@ -7,23 +7,33 @@ class Header extends Component {
   render() {
     return (
       <div>
-        <h1 className="App-title">Simple SPA</h1>
+        <h1 className="App-title">Železní vlci</h1>
         <ul className="header">
           <li>
             <img src={logo} className="App-logo" alt="logo" />
-            <Link to="/" activeClassName="active">
-              Home
-            </Link>
+            <NavLink to="/vlci/info" activeClassName="active">
+              Hlavní stránka
+            </NavLink>
           </li>
           <li>
-            <Link to="/roster" activeClassName="active">
-              Clenove
-            </Link>
+            <NavLink to="/vlci/roster" activeClassName="active">
+              Členové
+            </NavLink>
           </li>
           <li>
-            <Link to="/events" activeClassName="active">
-              Historie
-            </Link>
+            <NavLink to="/vlci/pribeh" activeClassName="active">
+              Příběh
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/vlci/events" activeClassName="active">
+              Události
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/vlci/kodex" activeClassName="active">
+              Kodex
+            </NavLink>
           </li>
         </ul>
       </div>

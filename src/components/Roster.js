@@ -7,8 +7,8 @@ class Roster extends Component {
   render() {
     return (
       <Switch>
-        <Route exact path="/roster" component={FullRoster} />
-        <Route path="/roster/:number" component={Player} />
+        <Route exact path="/vlci/roster" component={FullRoster} />
+        <Route path="/vlci/roster/:number" component={Player} />
       </Switch>
     );
   }

@@ -10,13 +10,13 @@ class EventStory extends Component {
       return <div>Zaznam se zrejme vytratil</div>;
     }
     return (
-      <div>
+      <div className="content">
         <h1>
           Událost: {ev.number}. - {ev.shortText}
         </h1>
         <h2>Datum: {ev.date}</h2>
         <h3>Popis: {ev.longText}</h3>
-        <Link to="/events">Back</Link>
+        <Link to="/vlci/events">Back</Link>
       </div>
     );
   }

@@ -7,8 +7,8 @@ class Events extends Component {
   render() {
     return (
       <Switch>
-        <Route exact path="/events" component={Board} />
-        <Route path="/events/:number" component={EventStory} />
+        <Route exact path="/vlci/events" component={Board} />
+        <Route path="/vlci/events/:number" component={EventStory} />
       </Switch>
     );
   }

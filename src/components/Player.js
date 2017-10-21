@@ -9,14 +9,16 @@ class Player extends Component {
     if (!player) {
       return <div>Nenalezen</div>;
     }
+    const srcz = require(`../img/${player.mainPicFilename}`);
+    const srcx = require('../img/jarkametelka.png');
     return (
-      <div>
+      <div className="content">
+        <img src={srcz} />
         <h1>
           Jméno {player.mainName} ({player.mainClass} : {player.mainTitle})
         </h1>
         <h2>Titul: {player.guildTitle}</h2>
         <h3>Titul: {player.moreText}</h3>
-
         {player.contact && (
           <div>
             {' '}
@@ -27,7 +29,7 @@ class Player extends Component {
           </div>
         )}
 
-        <Link to="/roster">Back</Link>
+        <Link to="/vlci/roster">Back</Link>
       </div>
     );
   }

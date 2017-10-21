@@ -19,7 +19,7 @@ const PlayerAPI = {
       mainName: 'Darka Metelka',
       mainClass: 'Lýkožrout',
       mainTitle: 'Kok',
-      mainPicFilename: 'darkametelka.png',
+      mainPicFilename: '1.png',
       guildTitle: 'Rakvič',
       moreText: 'Sedlák mentál',
       contact: null
