@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../img/logo.gif';
 import '../App.css';
-import { Tabs, Tab } from 'react-bootstrap';
 
 class Header extends Component {
   render() {
@@ -18,11 +17,11 @@ class Header extends Component {
           </li>
           <li>
             <Link to="/roster" activeClassName="active">
-              Členové
+              Clenove
             </Link>
           </li>
           <li>
-            <Link to="/history" activeClassName="active">
+            <Link to="/events" activeClassName="active">
               Historie
             </Link>
           </li>

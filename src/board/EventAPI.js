@@ -1,6 +1,6 @@
-// a pritimive player api
-const HistoryAPI = {
-  historyItems: [
+// a pritimive history api
+const EventAPI = {
+  eventItems: [
     {
       number: 1,
       date: '2012-04-23T18:25:43.511Z',
@@ -22,12 +22,12 @@ const HistoryAPI = {
     }
   ],
   all: function() {
-    return this.historyItems.reverse();
+    return this.eventItems.reverse();
   },
   get: function(id) {
     const isItem = p => p.number === id;
-    return this.historyItems.find(isItem);
+    return this.eventItems.find(isItem);
   }
 };
 
-export default HistoryAPI;
+export default EventAPI;

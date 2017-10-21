@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import '../App.css';
 import PlayerAPI from '../chars/PlayerAPI';
-import { Tabs, Tab } from 'react-bootstrap';
 
 class Player extends Component {
   render() {

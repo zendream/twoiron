@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
-import { Switch, Route, Link } from 'react-router-dom';
-import HistoryAPI from '../board/HistoryAPI';
+import { Link } from 'react-router-dom';
+import EventAPI from '../board/EventAPI';
 
-class HistoryBoard extends Component {
+class Board extends Component {
   render() {
     return (
       <div>
         <ul>
-          {HistoryAPI.all().map(p => (
+          {EventAPI.all().map(p => (
             <li key={p.number}>
-              <Link to={`/history/${p.number}`}>
+              <Link to={`/events/${p.number}`}>
                 {' '}
                 {p.date} - {p.shortText}
               </Link>
@@ -20,4 +20,4 @@ class HistoryBoard extends Component {
     );
   }
 }
-export default HistoryBoard;
+export default Board;

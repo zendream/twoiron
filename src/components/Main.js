@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
-import logo from '../img/logo.gif';
 import '../App.css';
 import Home from './Home';
-import History from './History';
+import Events from './Events';
 import Roster from './Roster';
-import { Tabs, Tab, Button } from 'react-bootstrap';
 
 class Main extends Component {
   render() {
@@ -14,7 +12,7 @@ class Main extends Component {
         <Switch>
           <Route exact path="/" component={Home} />
           <Route path="/roster" component={Roster} />
-          <Route path="/history" component={History} />
+          <Route path="/events" component={Events} />
         </Switch>
       </main>
     );

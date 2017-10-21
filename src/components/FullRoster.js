@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Switch, Route, Link } from 'react-router-dom';
-import Player from './Player';
+import { Link } from 'react-router-dom';
 import PlayerAPI from '../chars/PlayerAPI';
 
 class FullRoster extends Component {
