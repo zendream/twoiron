@@ -2,26 +2,22 @@
 const EventAPI = {
   eventItems: [
     {
-      number: 3,
-      date: '2014-04-23T18:25:43.511Z',
-      shortText: 'Qwer umřel!',
-      longText: 'Autoeroticka asfyxiace',
+      number: 2,
+      date: '22. října 2017 21:58',
+      picPath: '',
+      shortText: 'Rozjetá produkční verze stránek',
+      longText:
+        'Inu, už se to dá používat, heč. Čas dopsat příbeh a požádat o šutr.',
       picPaths: []
     },
     {
-      number: 2,
-      date: '2013-04-23T18:25:43.511Z',
-      shortText: 'Qwer umřel!',
-      longText: 'Spadnul z lamy a zlomil si vaz',
-      picPaths: ['1.png', '2.png']
-    },
-    {
       number: 1,
-      date: '2012-04-23T18:25:43.511Z',
+      date: '20. října 2017 21:58',
       picPath: '',
-      shortText: 'Qwer umřel!',
-      longText: 'Normálně zakopnul, nechápu',
-      picPaths: ['1.png']
+      shortText: 'Rozjetá první verze stránek',
+      longText:
+        'První prototyp, reactjs+bootstrap jako npm SPA pro freeckovy heroku servricek.',
+      picPaths: []
     }
   ],
   all: function() {

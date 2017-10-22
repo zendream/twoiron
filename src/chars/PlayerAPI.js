@@ -3,24 +3,80 @@ const PlayerAPI = {
   players: [
     {
       number: 1,
-      mainName: 'Jarka Metelka',
-      mainClass: 'Kožrout',
-      mainTitle: 'Jelimán',
-      mainPicFilename: '2.png',
-      morepics: ['1.png'],
-      guildTitle: 'Rakvič',
-      moreText: 'Sedlák totál',
-      contact: { type: 'ICQ', value: '123456789' }
+      mainName: 'El',
+      mainClass: 'Zloděj',
+      mainTitle: 'Kapsář',
+      mainPicFilename: 'el1.png',
+      morePics: [],
+      guildTitle: 'Vůdce smečky',
+      moreText: 'Hlavní kraft - carp tink max, bs 92, specka na crushing',
+      contact: { type: 'ICQ', value: '289107351' }
     },
     {
       number: 2,
-      mainName: 'Darka Metelka',
-      mainClass: 'Lýkožrout',
-      mainTitle: 'Kok',
-      mainPicFilename: '1.png',
-      morepics: [],
-      guildTitle: 'Rakvič',
-      moreText: 'Sedlák mentál',
+      mainName: 'Forsaken',
+      mainClass: 'Kouzelník',
+      mainTitle: 'Mudrc',
+      mainPicFilename: 'forsaken1.png',
+      morePics: [],
+      guildTitle: 'Zakládajíci člen',
+      moreText: '',
+      contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
+    },
+    {
+      number: 3,
+      mainName: 'Smoulinka',
+      mainClass: 'Nekro',
+      mainTitle: 'Trápitel',
+      mainPicFilename: 'qwer1.png',
+      morePics: [],
+      guildTitle: 'Hlavní rakvič',
+      moreText: '',
+      contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
+    },
+    {
+      number: 4,
+      mainName: 'Mac',
+      mainClass: 'Nekro',
+      mainTitle: 'trýznitel',
+      mainPicFilename: 'mac1.png',
+      morePics: [],
+      guildTitle: 'Zakládající člen',
+      moreText: '',
+      contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
+    },
+    {
+      number: 5,
+      mainName: 'Crowley',
+      mainClass: 'Nekro',
+      mainTitle: 'mučitel',
+      mainPicFilename: 'bino1.png',
+      morePics: [],
+      guildTitle: 'Afkovač 24/7',
+      moreText:
+        'S oblibou je dlouhodobě neaktivní, načež se těší, kolik naexpil',
+      contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
+    },
+    {
+      number: 6,
+      mainName: 'Felix',
+      mainClass: 'Zloděj',
+      mainTitle: 'lupíč',
+      mainPicFilename: 'felix1.png',
+      morePics: [],
+      guildTitle: 'Zakládající člen',
+      moreText: '',
+      contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
+    },
+    {
+      number: 7,
+      mainName: 'Freya',
+      mainClass: 'Hraničář',
+      mainTitle: 'krotitel',
+      mainPicFilename: 'olda1.png',
+      morePics: [],
+      guildTitle: 'Zakládající člen',
+      moreText: '',
       contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
     }
   ],

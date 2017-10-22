@@ -1,12 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import {
-  Panel,
-  Thumbnail,
-  Button,
-  OverlayTrigger,
-  Tooltip
-} from 'react-bootstrap';
+import { Thumbnail, Button, OverlayTrigger, Tooltip } from 'react-bootstrap';
 import PlayerAPI from '../chars/PlayerAPI';
 import '../index.css';
 

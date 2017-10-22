@@ -12,11 +12,12 @@ class EventStory extends Component {
     }
     return (
       <div className="content">
-        <h1>
+        <h2>
           Událost: {ev.number}. - {ev.shortText}
-        </h1>
-        <h2>Datum: {ev.date}</h2>
-        <h3>Popis: {ev.longText}</h3>
+        </h2>
+        <h1>Datum: {ev.date}</h1>
+        <br />
+        <h3>{ev.longText}</h3>
         <div>
           {ev.picPaths.map(p => <Thumbnail src={require(`../img/${p}`)} />)}
         </div>

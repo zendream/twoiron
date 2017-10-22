@@ -8,7 +8,7 @@ class Welcome extends Component {
     return (
       <Link to="/vlci/info">
         <div className="splashContainer">
-          <img className="splashImg" src={img} />
+          <img alt="klikačka pro vstup" className="splashImg" src={img} />
         </div>
       </Link>
     );

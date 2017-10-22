@@ -5,15 +5,13 @@ class Codex extends Component {
   render() {
     return (
       <div className="content">
-        <h2 align="center">Kodex</h2>
-        <ul className="kodex">
-          <li>Kdo lže, ten krade.</li>
-          <li>Kdo krade, roste pro šibenici.</li>
-          <li>
-            Kdo roste pro šibenici, určitě se ani fatálního násilí neštítí.
-          </li>
-          <li>Žádné vrahy netrpíme.</li>
-        </ul>
+        <h2 align="center">Kodex železných vlků</h2>
+        <div className="kodex">
+          <p>Kdo lže, ten krade.</p>
+          <p>Kdo krade, roste pro šibenici.</p>
+          <p>Kdo roste pro šibenici, určitě se ani fatálního násilí neštítí.</p>
+          <p>Žádné vrahy netrpíme.</p>
+        </div>
       </div>
     );
   }

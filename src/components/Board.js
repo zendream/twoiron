@@ -14,7 +14,7 @@ class Board extends Component {
                 <p>
                   <Link to={`/vlci/events/${p.number}`}>
                     {' '}
-                    {p.number}. -- {p.shortText}
+                    {p.number}. - {p.shortText}
                   </Link>
                 </p>
                 <p>{p.date}</p>

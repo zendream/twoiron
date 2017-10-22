@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { Button } from 'react-bootstrap';
+import { Button, Thumbnail, Panel } from 'react-bootstrap';
 import '../App.css';
 import PlayerAPI from '../chars/PlayerAPI';
 
@@ -13,21 +13,35 @@ class Player extends Component {
     const srcpic = require(`../img/${player.mainPicFilename}`);
     return (
       <div className="content">
-        <img className="charPic" src={srcpic} />
-        <h1>
-          Jméno {player.mainName} ({player.mainClass} : {player.mainTitle})
-        </h1>
-        <h2>Titul: {player.guildTitle}</h2>
-        <h3>Titul: {player.moreText}</h3>
-        {player.contact && (
-          <div>
-            {' '}
-            Kontakt:
-            <p>
-              {player.contact.type} : {player.contact.value}
-            </p>
-          </div>
-        )}
+        <table>
+          <tr>
+            <td>
+              <Thumbnail className="charPic" src={srcpic} />
+            </td>
+            <td>
+              <Panel>
+                <h2>
+                  {player.mainName} ({player.mainClass} : {player.mainTitle})
+                </h2>
+                <h1>Hodnost: {player.guildTitle}</h1>
+                <h1>{player.moreText}</h1>
+                <br />
+                {player.contact && (
+                  <div>
+                    {' '}
+                    <p>Kontakt:</p>
+                    {player.contact.type} : {player.contact.value}
+                  </div>
+                )}
+              </Panel>
+            </td>
+          </tr>
+        </table>
+        <div>
+          {player.morePics.map(p => (
+            <Thumbnail alt="dalsi fotka postavy" src={require(`../img/${p}`)} />
+          ))}
+        </div>
 
         <Link to="/vlci/roster">
           <Button>Zpět</Button>

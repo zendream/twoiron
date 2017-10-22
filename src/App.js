@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
-import Header from './components/Header.js';
-import Main from './components/Main.js';
 import Welcome from './components/Welcome.js';
 import Home from './components/Home.js';
 import './App.css';

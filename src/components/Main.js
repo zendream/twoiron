@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import '../App.css';
-import App from '../App';
 import Events from './Events';
 import Roster from './Roster';
 import Info from './Info';
