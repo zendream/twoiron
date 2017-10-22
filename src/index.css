@@ -36,7 +36,6 @@ ul.header {
   padding: 0;
 }
 ul.header li a {
-  color: #fff;
   font-weight: bold;
   text-decoration: none;
   padding: 20px;
@@ -45,13 +44,14 @@ ul.header li a {
 }
 .content {
   border-radius: 25px;
-  background-color: #ffffff;
-  opacity: 0.7;
+  background-color: rgba(255, 255, 255, 0.5);
   padding: 20px;
 }
 .content h2 {
-  padding: 0;
-  margin: 0;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 .content li {
   margin-bottom: 10px;
@@ -59,6 +59,7 @@ ul.header li a {
 .active {
   border-radius: 25px;
   background-color: #0099ff;
+  color: #e40303;
 }
 .splashImg {
   border-radius: 25px;
@@ -73,4 +74,8 @@ ul.header li a {
 }
 .splashImg:hover {
   animation: bounce;
+}
+.thumbnail {
+  margin: 10px;
+  display: inline-block;
 }

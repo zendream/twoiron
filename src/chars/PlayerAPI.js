@@ -6,13 +6,11 @@ const PlayerAPI = {
       mainName: 'Jarka Metelka',
       mainClass: 'Kožrout',
       mainTitle: 'Jelimán',
-      mainPicFilename: 'jarkametelka.png',
+      mainPicFilename: '2.png',
+      morepics: ['1.png'],
       guildTitle: 'Rakvič',
       moreText: 'Sedlák totál',
-      contact: {
-        type: 'ICQ',
-        value: '123456789'
-      }
+      contact: { type: 'ICQ', value: '123456789' }
     },
     {
       number: 2,
@@ -20,9 +18,10 @@ const PlayerAPI = {
       mainClass: 'Lýkožrout',
       mainTitle: 'Kok',
       mainPicFilename: '1.png',
+      morepics: [],
       guildTitle: 'Rakvič',
       moreText: 'Sedlák mentál',
-      contact: null
+      contact: { type: 'Neveřejný', value: ' kontaktujte ve hře' }
     }
   ],
   all: function() {

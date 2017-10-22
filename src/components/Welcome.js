@@ -6,7 +6,7 @@ import img from '../img/wolfhead.jpg';
 class Welcome extends Component {
   render() {
     return (
-      <Link to="/vlci/home">
+      <Link to="/vlci/info">
         <div className="splashContainer">
           <img className="splashImg" src={img} />
         </div>

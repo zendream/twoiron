@@ -16,7 +16,10 @@ class FullRoster extends Component {
       <div className="content">
         <ul>
           {PlayerAPI.all().map(p => (
-            <Thumbnail key={p.number}>
+            <Thumbnail
+              key={p.number}
+              src={require(`../img/${p.mainPicFilename}`)}
+            >
               <h3>{p.mainName}</h3>
               <p>
                 {p.mainClass} - {p.mainTitle}
@@ -30,7 +33,7 @@ class FullRoster extends Component {
                   placement="bottom"
                   overlay={
                     <Tooltip id="tooltip-kontakt">
-                      <strong>todo</strong> ugh
+                      <strong>{p.contact.type}</strong> {p.contact.value}
                     </Tooltip>
                   }
                 >

@@ -21,13 +21,13 @@ class Header extends Component {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/vlci/pribeh" activeClassName="active">
-              Příběh
+            <NavLink to="/vlci/events" activeClassName="active">
+              Události
             </NavLink>
           </li>
           <li>
-            <NavLink to="/vlci/events" activeClassName="active">
-              Události
+            <NavLink to="/vlci/pribeh" activeClassName="active">
+              Příběh
             </NavLink>
           </li>
           <li>

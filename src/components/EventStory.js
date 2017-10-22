@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import { Thumbnail, Button } from 'react-bootstrap';
 import '../App.css';
 import EventAPI from '../board/EventAPI';
 
@@ -16,7 +17,12 @@ class EventStory extends Component {
         </h1>
         <h2>Datum: {ev.date}</h2>
         <h3>Popis: {ev.longText}</h3>
-        <Link to="/vlci/events">Back</Link>
+        <div>
+          {ev.picPaths.map(p => <Thumbnail src={require(`../img/${p}`)} />)}
+        </div>
+        <Link to="/vlci/events">
+          <Button>Zpět</Button>
+        </Link>
       </div>
     );
   }

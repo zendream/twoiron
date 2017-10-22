@@ -5,9 +5,9 @@ class OriginStory extends Component {
   render() {
     return (
       <div className="content">
-        <h1>Jímavá story o žluťoučkém koni</h1>
+        <h2>Jímavá story o žluťoučkém koni</h2>
         <br />
-        <h2>asdf asdfasdf sad</h2>
+        <p>asdf asdfasdf sad</p>
       </div>
     );
   }

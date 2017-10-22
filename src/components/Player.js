@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import { Button } from 'react-bootstrap';
 import '../App.css';
 import PlayerAPI from '../chars/PlayerAPI';
 
@@ -9,11 +10,10 @@ class Player extends Component {
     if (!player) {
       return <div>Nenalezen</div>;
     }
-    const srcz = require(`../img/${player.mainPicFilename}`);
-    const srcx = require('../img/jarkametelka.png');
+    const srcpic = require(`../img/${player.mainPicFilename}`);
     return (
       <div className="content">
-        <img src={srcz} />
+        <img className="charPic" src={srcpic} />
         <h1>
           Jméno {player.mainName} ({player.mainClass} : {player.mainTitle})
         </h1>
@@ -29,7 +29,9 @@ class Player extends Component {
           </div>
         )}
 
-        <Link to="/vlci/roster">Back</Link>
+        <Link to="/vlci/roster">
+          <Button>Zpět</Button>
+        </Link>
       </div>
     );
   }

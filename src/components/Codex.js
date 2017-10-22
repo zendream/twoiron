@@ -5,7 +5,7 @@ class Codex extends Component {
   render() {
     return (
       <div className="content">
-        <h1 align="center">Kodex</h1>
+        <h2 align="center">Kodex</h2>
         <ul className="kodex">
           <li>Kdo lže, ten krade.</li>
           <li>Kdo krade, roste pro šibenici.</li>
