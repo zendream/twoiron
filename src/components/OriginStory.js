@@ -11,7 +11,7 @@ class OriginStory extends Component {
         <Panel className="story">
           <p>
             Po šedých přístavech se odnepaměti vyprávěl příběh o přízraku
-            Modrých hor. O strašidelém zjevení, které podle jedněch snad bylo
+            Modrých hor. O strašidelném zjevení, které podle jedněch snad bylo
             tajemným ochráncem onoho pohoří, podle jiných zas pozůstatkem duší z
             tragicky zničeného lesního městečka, a podle jiných dokonce pouhým
             memetickým mýtem, který se znovu objevil s neobvyklou várkou
@@ -20,7 +20,7 @@ class OriginStory extends Component {
           <p>
             Důvěryhodných svědectví se sice nedostávalo, nicméně jeden detail se
             velmi často shodoval, klíčové slovo "vlk". Horníky vyděsilo vlčí
-            volání přícházející prý zevnitř skály. Někteří starší hraničáři se,
+            volání přicházející prý zevnitř skály. Někteří starší hraničáři se,
             po ujištění, že o jejich schopnostech nikdo nepochybuje, podělili o
             informace o vzácných nálezech stop velké psovité šelmy. Stop, které
             nedávaly smysl, byly příliš hluboké, jako by snad zvíře něco těžkého
@@ -52,7 +52,7 @@ class OriginStory extends Component {
             podivín, kuchař Mrkvička, je každého požádal o dodávku mršin ptáčků,
             nacpaných v dodaném, podezřele smradlavém pytlíku. Nikdo nevěděl,
             proč je vlastně chce, dlouhodobě nabízel materiální úplatu jízdní
-            zvěří za takové morbidní úlohy. Nikdo nevědel, kde je mohl brát.
+            zvěří za takové morbidní úlohy. Nikdo nevěděl, kde je mohl brát.
             Nikdo netušil, co s těmi tunami pytlů s mrtvolkami prováděl, všichni
             to brali jak jakýsi excentrismus, nakonec, nikomu nijak neškodil, a
             jak říká dnes zdomácnělé pořekadlo, "Lepší lama pod prdelí, nežli
@@ -61,55 +61,55 @@ class OriginStory extends Component {
             přecenila své schopnosti a svižně pajdala lesem s rukama plnými
             bandáží, zatímco za ní se rýsovalo početné hejno silně iritovaných
             ptáčku. Lapka El, dříve pohůnek z dalekého Edorasu, se v tu chvíli
-            zrovna zaobíral zvokovou hypnózou ptáčků, aby tito spolu bojovali na
+            zrovna zaobíral zvukovou hypnózou ptáčků, aby tito spolu bojovali na
             život a na smrt. Jeho přemítání nad tím, zda, za předpokladu, že je
             zkušenost počitatelná, je z jednoho života ptáčka jedna zkušenost,
             tudíž více zkušeností z více ptáčků, a jestli tak takové sbírání
             zkušeností k něčemu bude, během kteréhož se kolem něj drápky a
             zobany masakrovalo hned několik zkušeností, přerušil nejdříve
             podezřele vypadající kouzelník, který vpadl na hudebníkem okupovanou
-            planink a začal vyřvávat slova moci, dramaticky artikulovaná, leč
+            planinku a začal vyřvávat slova moci, dramaticky artikulovaná, leč
             následovaná zvuky, které je pro absenci lepšího srovnání potřeba
-            popsat jako pšoukání. El poznal, že se v oboru magickém jedná
-            spíšezřejmě o mladého nadšence, než starého protřelce, a vyrazil z
-            posedu, aby ho pozdravil. Sotva však stačil při slézání přilákat
-            jeho pozornost, přilétlo hejno. Mráček ptáků byl vidět nad stromy
-            jen o chvilku dříve, než na planinku vklopýtala Smoulinka, zabraná
-            do rytmického ovazování předloktí, které bylo jedna z posledních
-            částí jejího těla nepřipomínajících mumii. "Ty svině nějak
-            komunikují! Vendelín Hičkoků měl tenkrát v hospodě pravdu!
-            Utíkejte!", zakřičela na zkoprnělé rádoby dobrodruhy a pokračovala
-            směrem ke skále. Nenechali se pobízet a po chvilce vyrovnali krok.
-            "No nazdar, jak se všech těch ptáků zbavíme?", zeptal se mezi kroky
-            El. Kouzelník za lehkého běhu zakřepčil, představa hromadného ničení
-            mu nejspíš zamlouvala: "Forsaken, těší mě, rukulíbám. Jednoduše,
-            někdo je naláká na hromadu a já na ně pošlu meteor!" El se skepticky
-            podíval na zbídačelý stav vrávorající nekromantky, na jejímž mladém
-            těle se rýsovaly jizvy, které musely stačit hned na několik životů,
-            a jízlivě pronesl: "Někdo, aha..." "Ono.. taky by to možná mohlo
-            potřebovat pár pokusů, ideálně kdybyste je udržel na své, ehm, osobě
-            a nejbližším okolí tak minutku dvě...", začal kouzelník kvapně
-            dodávat. "Aha... plán B?", odvětil zlodějíček. "Jeskyně!" vyhrkla
-            nekromantka, a opravdu, za okrajem lesíčka se na začátku skalního
-            masivu dala již spatřit velká do kamene. Vyrazili směrem k ní, ptáci
-            ale začali dotahovat, potvory opeřené. Lapka s kouzelníkem naběhli
-            dovnitř do poměrně stísněné jeskyňky jako první, otočili se, a ke
-            své hrůze spatřili, že vrávorající nekromantka zpomaluje a začínají
-            ji zobat nejrychlejší ptáčci. Kouzelník neztrácel čas a zahlásil:
-            "Ona to určite zvládne, Anna Tir Kemen". "Zvládne? Eh... no... jak
-            myslíš", zapochyboval chvilkově lapka, když se ve vchodu do jeskyně
-            začala materializovat kamenná magická zeď a z druhé strany do ní již
-            začaly narážet ptačí zobáky a tělíčka. Jekot venku po milosrdně
-            krátké chvíli utichl, po chvíli i bušení na zeď, a skrz ni se
-            dovnitř protáhla přízračná postava nekromantky. "oOOoOoo Ooo",
-            pronesla, a průsvitný pohled zpod kapuce vypadal zvlášť ukřivděně.
-            "Ech, pochopte, nestihli bychom to zavřít, fenomén agresivního hejna
-            ne-dravých ptáku určitě není nic přirozeného, kdoví co to...", začal
-            překotně vysvětlovat kouzelník. "To není podstatné," utnul ho lapka,
-            "neměli bychom zbaběle utíhat před hejnem sýkorek. Měli bychom se
-            dát dohromady, založit družinu, nabrat zkušenosti, namamonit
-            bohatství, získat věhlas. Začít cestu ke slávě, která nikdy nekončí,
-            aby bardi Středozemě zpívali naše jména, nejlepší řemeslníci kovali
+            popsat jako pšoukání. El poznal, že se v oboru magickém jedná zřejmě
+            o mladého nadšence, než starého protřelce, a vyrazil z posedu, aby
+            ho pozdravil. Sotva však stačil při slézání přilákat jeho pozornost,
+            přilétlo hejno. Mráček ptáků byl vidět nad stromy jen o chvilku
+            dříve, než na planinku vklopýtala Smoulinka, zabraná do rytmického
+            ovazování předloktí, které bylo jedna z posledních částí jejího těla
+            nepřipomínajících mumii. "Ty svině nějak komunikují! Vendelín
+            Hičkoků měl tenkrát v hospodě pravdu! Utíkejte!", zakřičela na
+            zkoprnělé rádoby dobrodruhy a pokračovala směrem ke skále. Nenechali
+            se pobízet a po chvilce vyrovnali krok. "No nazdar, jak se všech
+            těch ptáků zbavíme?", zeptal se mezi kroky El. Kouzelník za lehkého
+            běhu zakřepčil, představa hromadného ničení mu nejspíš zamlouvala:
+            "Forsaken, těší mě, rukulíbám. Jednoduše, někdo je naláká na hromadu
+            a já na ně pošlu meteor!" El se skepticky podíval na zbídačelý stav
+            vrávorající nekromantky, na jejímž mladém těle se rýsovaly jizvy,
+            které musely stačit hned na několik životů, a jízlivě pronesl:
+            "Někdo, aha..." "Ono.. taky by to možná mohlo potřebovat pár pokusů,
+            ideálně kdybyste je udržel na své, ehm, osobě a nejbližším okolí tak
+            minutku dvě...", začal kouzelník kvapně dodávat. "Aha... plán B?",
+            odvětil zlodějíček. "Jeskyně!" vyhrkla nekromantka, a opravdu, za
+            okrajem lesíčka se na začátku skalního masivu dala již spatřit velká
+            do kamene. Vyrazili směrem k ní, ptáci ale začali dotahovat, potvory
+            opeřené. Lapka s kouzelníkem naběhli dovnitř do poměrně stísněné
+            jeskyňky jako první, otočili se, a ke své hrůze spatřili, že
+            vrávorající nekromantka zpomaluje a začínají ji zobat nejrychlejší
+            ptáčci. Kouzelník neztrácel čas a zahlásil: "Ona to určitě zvládne,
+            Anna Tir Kemen". "Zvládne? Eh... no... jak myslíš", zapochyboval
+            chvilkově lapka, když se ve vchodu do jeskyně začala materializovat
+            kamenná magická zeď a z druhé strany do ní již začaly narážet ptačí
+            zobáky a tělíčka. Jekot venku po milosrdně krátké chvíli utichl, po
+            chvíli i bušení na zeď, a skrz ni se dovnitř protáhla přízračná
+            postava nekromantky. "oOOoOoo Ooo", pronesla, a průsvitný pohled
+            zpod kapuce vypadal zvlášť ukřivděně. "Ech, pochopte, nestihli
+            bychom to zavřít, fenomén agresivního hejna ne-dravých ptáku určitě
+            není nic přirozeného, kdoví co to...", začal překotně vysvětlovat
+            kouzelník. "To není podstatné," utnul ho lapka, "neměli bychom
+            zbaběle utíkat před hejnem sýkorek. Měli bychom se dát dohromady,
+            založit družinu, nabrat zkušenosti, namamonit bohatství, získat
+            věhlas. Začít cestu ke slávě, která nikdy nekončí, aby bardi
+            Středozemě zpívali naše jména, nejlepší řemeslníci kovali
             pojmenované zbraně jen pro nás, a nej... ehm, nej..." "A největší
             magické kapacity uznaly naše oprávněné námitky, že po vyslovení Slov
             Moci není třeba dělat dramatickou pauzu před vyvoláním efektu! Každý
@@ -121,7 +121,7 @@ class OriginStory extends Component {
             říkejte mi Crowley", pronesl neznámý, a vznikající tlumené světélko
             odhalilo drobnou postavu, od pohledu dalšího přívržence temných
             umění. "Procházel jsem okolo a hledal obzvlášť lahodné mrtvoly,
-            tahle jeskyně tu nebýla, přišla mi podezřelá, tak jsem se ji jal
+            tahle jeskyně tu nebyla, přišla mi podezřelá, tak jsem se ji jal
             zkoumat a u toho mi vyhládlo. Ale musím uznat, vaše řeč mne
             inspirovala, přidal bych se do vaší skupiny. Podle vašeho proslovu
             tuším, že vaše další cesty budou obsahovat mnoho mrtvol, na jedné,
