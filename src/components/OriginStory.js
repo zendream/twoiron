@@ -27,24 +27,24 @@ class OriginStory extends Component {
             neslo, ale nezanechávalo další stopy, či jako by snad bylo
             nepřirozeně těžké. Trasy těchto stop navíc končily oběma směry
             nesmyslně, buď znenadání, nebo dokonce před skalou. Na čekané prý
-            jeden z nejstarších viděl kdysi na čekané najednou ve tmě obrys
-            největšího vlka, kterého kdy spatřil, a pak až do rána, přestože
-            hned vyrazil domů na druhou stranu Modrých hor, se nemohl zbavit
-            pocitu, že ho někdo sleduje. Dřevorubci se prý někdy vrátili s
-            historkou o nervy drásajícím tlumeném vrčení z korun stromů. O
-            jednom z movitějších a nevrlejších obchodníků z dřevem z Šedých
-            přístavu se trajdalo, že po jednom takovém incidentu, kdy starý
-            mistr vyrazil s ornamenty pokrytou sekyrkou na vzácné dřevo a vrátil
-            se s očima navrch hlavy, si tento zaplatil ohledání odborníkem na
-            magii, kterého pozval až ze vzdáleného hlavního města. Odborník za
-            sebe vyslal učedníka, který po krátkém profesionálním ohledání ("Tak
-            kde tu máte tu chlupatou skálu, nebo co."), shledal, že okolní
-            magická aktivita je dokonce lehce pod běžným šumem, že jeho detekční
-            formulky by zjistily veškeré neodborné zvláštnosti dokonce i z
-            několika týdnů zpátky. V následné hádce, která po takovém prázdném
-            nálezu přišla, neopatrně nahlas zapochyboval o obchodníkově duševním
-            zdraví, obchodníka s holí setřásl už u vrat, psy přes krajský
-            potůček. Od té doby historky o strašidlu nikdo nebral příliš vážně.
+            jeden z nejstarších viděl kdysi znenadání ve tmě obrys největšího
+            vlka, kterého kdy spatřil, a pak až do rána, přestože hned vyrazil
+            domů na druhou stranu Modrých hor, se nemohl zbavit pocitu, že ho
+            někdo sleduje. Dřevorubci se prý někdy vrátili s historkou o nervy
+            drásajícím tlumeném vrčení z korun stromů. O jednom z movitějších a
+            nevrlejších obchodníků z dřevem z Šedých přístavu se trajdalo, že po
+            jednom takovém incidentu, kdy starý mistr vyrazil s ornamenty
+            pokrytou sekyrkou na vzácné dřevo a vrátil se s očima navrch hlavy,
+            si tento zaplatil ohledání odborníkem na magii, kterého pozval až ze
+            vzdáleného hlavního města. Odborník za sebe vyslal učedníka, který
+            po krátkém profesionálním ohledání ("Tak kde tu máte tu chlupatou
+            skálu, nebo co."), shledal, že okolní magická aktivita je dokonce
+            lehce pod běžným šumem, že jeho detekční formulky by zjistily
+            veškeré neodborné zvláštnosti dokonce i z několika týdnů zpátky. V
+            následné hádce, která po takovém prázdném nálezu přišla, neopatrně
+            nahlas zapochyboval o obchodníkově duševním zdraví, obchodníka s
+            holí setřásl už u vrat, psy přes krajský potůček. Od té doby
+            historky o strašidlu nikdo nebral příliš vážně.
           </p>
           <p>
             Jednoho dne se však poblíž věhlasné hromady kamení proháněli tři
@@ -90,26 +90,26 @@ class OriginStory extends Component {
             ideálně kdybyste je udržel na své, ehm, osobě a nejbližším okolí tak
             minutku dvě...", začal kouzelník kvapně dodávat. "Aha... plán B?",
             odvětil zlodějíček. "Jeskyně!" vyhrkla nekromantka, a opravdu, za
-            okrajem lesíčka se na začátku skalního masivu dala již spatřit velká
-            do kamene. Vyrazili směrem k ní, ptáci ale začali dotahovat, potvory
-            opeřené. Lapka s kouzelníkem naběhli dovnitř do poměrně stísněné
-            jeskyňky jako první, otočili se, a ke své hrůze spatřili, že
-            vrávorající nekromantka zpomaluje a začínají ji zobat nejrychlejší
-            ptáčci. Kouzelník neztrácel čas a zahlásil: "Ona to určitě zvládne,
-            Anna Tir Kemen". "Zvládne? Eh... no... jak myslíš", zapochyboval
-            chvilkově lapka, když se ve vchodu do jeskyně začala materializovat
-            kamenná magická zeď a z druhé strany do ní již začaly narážet ptačí
-            zobáky a tělíčka. Jekot venku po milosrdně krátké chvíli utichl, po
-            chvíli i bušení na zeď, a skrz ni se dovnitř protáhla přízračná
-            postava nekromantky. "oOOoOoo Ooo", pronesla, a průsvitný pohled
-            zpod kapuce vypadal zvlášť ukřivděně. "Ech, pochopte, nestihli
-            bychom to zavřít, fenomén agresivního hejna ne-dravých ptáku určitě
-            není nic přirozeného, kdoví co to...", začal překotně vysvětlovat
-            kouzelník. "To není podstatné," utnul ho lapka, "neměli bychom
-            zbaběle utíkat před hejnem sýkorek. Měli bychom se dát dohromady,
-            založit družinu, nabrat zkušenosti, namamonit bohatství, získat
-            věhlas. Začít cestu ke slávě, která nikdy nekončí, aby bardi
-            Středozemě zpívali naše jména, nejlepší řemeslníci kovali
+            okrajem lesíčka se na začátku skalního masivu dala rozeznat velká
+            díra do kamene. Vyrazili směrem k ní, ptáci ale začali dotahovat,
+            potvory opeřené. Lapka s kouzelníkem naběhli dovnitř do poměrně
+            stísněné jeskyňky jako první, otočili se, a ke své hrůze spatřili,
+            že vrávorající nekromantka zpomaluje a začínají ji zobat
+            nejrychlejší ptáčci. Kouzelník neztrácel čas a zahlásil: "Ona to
+            určitě zvládne, Anna Tir Kemen". "Zvládne? Eh... no... jak myslíš",
+            zapochyboval chvilkově lapka, když se ve vchodu do jeskyně začala
+            materializovat kamenná magická zeď a z druhé strany do ní již začaly
+            narážet ptačí zobáky a tělíčka. Jekot venku po milosrdně krátké
+            chvíli utichl, po chvíli i bušení na zeď, a skrz ni se dovnitř
+            protáhla přízračná postava nekromantky. "oOOoOoo Ooo", pronesla, a
+            průsvitný pohled zpod kapuce vypadal zvlášť ukřivděně. "Ech,
+            pochopte, nestihli bychom to zavřít, fenomén agresivního hejna
+            ne-dravých ptáku určitě není nic přirozeného, kdoví co to...", začal
+            překotně vysvětlovat kouzelník. "To není podstatné," utnul ho lapka,
+            "neměli bychom zbaběle utíkat před hejnem sýkorek. Měli bychom se
+            dát dohromady, založit družinu, nabrat zkušenosti, namamonit
+            bohatství, získat věhlas. Začít cestu ke slávě, která nikdy nekončí,
+            aby bardi Středozemě zpívali naše jména, nejlepší řemeslníci kovali
             pojmenované zbraně jen pro nás, a nej... ehm, nej..." "A největší
             magické kapacity uznaly naše oprávněné námitky, že po vyslovení Slov
             Moci není třeba dělat dramatickou pauzu před vyvoláním efektu! Každý
@@ -121,7 +121,7 @@ class OriginStory extends Component {
             říkejte mi Crowley", pronesl neznámý, a vznikající tlumené světélko
             odhalilo drobnou postavu, od pohledu dalšího přívržence temných
             umění. "Procházel jsem okolo a hledal obzvlášť lahodné mrtvoly,
-            tahle jeskyně tu nebyla, přišla mi podezřelá, tak jsem se ji jal
+            tahle jeskyně tu nebývala, přišla mi podezřelá, tak jsem se ji jal
             zkoumat a u toho mi vyhládlo. Ale musím uznat, vaše řeč mne
             inspirovala, přidal bych se do vaší skupiny. Podle vašeho proslovu
             tuším, že vaše další cesty budou obsahovat mnoho mrtvol, na jedné,
