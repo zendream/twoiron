@@ -15,7 +15,7 @@ const PlayerAPI = {
     {
       number: 2,
       mainName: 'Forsaken',
-      mainClass: 'Kouzelník',
+      mainClass: 'Magič',
       mainTitle: 'Mudrc',
       mainPicFilename: 'forsaken1.png',
       morePics: [],
@@ -71,7 +71,7 @@ const PlayerAPI = {
     {
       number: 7,
       mainName: 'Freya',
-      mainClass: 'Hraničář',
+      mainClass: 'Magič',
       mainTitle: 'krotitel',
       mainPicFilename: 'olda1.png',
       morePics: [],

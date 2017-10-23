@@ -9,6 +9,7 @@ class Home extends Component {
       <div className="App">
         <Header />
         <Main />
+        <div classname="footer">Made by @zendream 2017 MIT license</div>
       </div>
     );
   }

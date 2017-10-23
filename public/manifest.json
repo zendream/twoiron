@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ZelezniVlciWebApp",
+  "name": "React SPA project for a UO guild",
   "icons": [
     {
       "src": "favicon.ico",
