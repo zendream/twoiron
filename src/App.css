@@ -19,7 +19,8 @@
   font-size: 3.5em;
 }
 .footer {
-  position: absolute;
+  margin-top: 1px;
+  position: fixed;
   left: 0;
   bottom: 0;
   right: 0;
