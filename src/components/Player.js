@@ -23,8 +23,13 @@ class Player extends Component {
                 <h2>
                   {player.mainName} ({player.mainClass} : {player.mainTitle})
                 </h2>
-                <h1>Hodnost: {player.guildTitle}</h1>
-                <h1>{player.moreText}</h1>
+                <h1 className="playerInfo">Hodnost: {player.guildTitle}</h1>
+                <h1 className="playerInfo">{player.moreText}</h1>
+                <br />
+                <h1 className="playerInfo">
+                  Další postavy:&nbsp;
+                  {player.moreChars.join(', ')}
+                </h1>
                 <br />
                 {player.contact && (
                   <div>
